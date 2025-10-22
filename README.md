@@ -6,7 +6,7 @@
 * The project answers key business and analytical questions about courses, including which subjects perform best, pricing patterns, and audience engagement.
 * It focuses on **data cleaning, exploration, and visualization** using Python.
 
-🔗 View the Project
+🔗 <a href="https://github.com/Dharani1202/Udemy-Dataset-Analysis-using---Pandas/blob/main/Udemy%20Project_3.ipynb"> View the Project </a>
 
 ---
 
@@ -130,7 +130,7 @@ Performed detailed analysis to answer the following questions:
 
 ---
 
-🔗 [View the Project](https://github.com/Dharani1202/Udemy-Data-Analysis)
+🔗 <a href="https://github.com/Dharani1202/Udemy-Dataset-Analysis-using---Pandas/blob/main/Udemy%20Project_3.ipynb"> View the Project </a>
 
 ---
 
